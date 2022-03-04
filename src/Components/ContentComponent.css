@@ -1,0 +1,38 @@
+.wrapper{
+    height: 100%;
+}
+.content{
+    text-align: center;
+}
+.title{
+    padding: 20px 0;
+    background-color: rgba(0, 0, 0, 0.24);
+    margin-bottom: 20px;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+}
+.model{
+    text-align: center;
+}
+.model img{
+    width: 50%;
+}
+.glasses-list {
+    background-color: white;
+    padding: 30px;
+    margin: 50px 0;
+}
+.glasses-item{
+    padding: 20px;
+    padding-top: 0;
+}
+.glasses-item img {
+    border: 1px solid black;
+    width: 100%;
+    padding: 5px;
+}
+.glasses-card{
+    position: relative;
+    opacity: 0.9;
+}
