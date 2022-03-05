@@ -4,7 +4,6 @@ import ContentComponent from './Components/ContentComponent';
 function App() {
   return (
     <div className="App">
-      
       <ContentComponent />
     </div>
   );
